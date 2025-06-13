@@ -30,9 +30,9 @@ const SUBGRAPH_URL = 'https://gateway.thegraph.com/api/YOUR_API_KEY/subgraphs/id
 node api/server.js
 
 ## 4. Test endpoints in your browser or Postman:
-###    ✅ http://localhost:3000/restakers
-###    ✅ http://localhost:3000/validators
-###    ✅ http://localhost:3000/rewards/<wallet_address>
+  ✅ http://localhost:3000/restakers
+  ✅ http://localhost:3000/validators
+  ✅ http://localhost:3000/rewards/<wallet_address>
 
 # 🧠 Assumptions
 
